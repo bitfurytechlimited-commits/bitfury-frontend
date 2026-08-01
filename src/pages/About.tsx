@@ -693,12 +693,10 @@ Contact Our Team
 
 </section>
 
-Footer />
+<Footer />
 
     </>
 
   );
 
 }
-
-export default About;
